@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let QQUser={
+            name:'QQ',
+            age:'18',
+            sex:'女',
+            friend:['小花','李明','小猪'],
+            sayHellow(){
+                console.log("helloo,I'm QQ")
+            },
+            sayFriend(){
+                console.log("My Friends are 小花，李明，小猪")
+            },
+            fenZu:['朋友','家人','老师','同学'],
+            id:123456,
+            isShangwang:false,
+            number:null,
+        }
+    </script>
+</body>
+</html>
